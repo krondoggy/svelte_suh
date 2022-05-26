@@ -108,9 +108,9 @@
 							<th>Date</th>
 						</tr>
 						<tr>
-							<td>1</td>
-							<td>2</td>
-							<td>3</td>
+							<td>First</td>
+							<td>Second</td>
+							<td>Third</td>
 						</tr>
 						<tr>
 							<td>1</td>
